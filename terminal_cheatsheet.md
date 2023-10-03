@@ -24,3 +24,4 @@
 - -m : Message flag, follows the git commit command and is followed by a relevant message surrounded in double quotes describing the changes/issues fixed in the newly commited files
 - git clone : copies all files from existing repository
 - git init: Initilizes git repository in current location
+- gitignore: A file type that can be added, this will be read and folders/file locations listed within the folder will not be added to the repository when using "git add ." 
